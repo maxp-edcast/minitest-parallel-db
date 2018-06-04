@@ -1,5 +1,3 @@
-require 'pg'
-
 module Minitest
   module Parallel::Db
     module ActiveRecord
